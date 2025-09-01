@@ -60,10 +60,9 @@ agent.initialize();
 ```
 
 **Fonctionnalités :**
-- Tracking des clics, scroll
+- Tracking des clics, scroll, mouvements
 - Capture des métriques de performance
 - Envoi asynchrone des données
-- Gestion des erreurs et retry
 
 ### 🔄 Quarkus-Collector
 Service principal de collecte des événements utilisateur.
