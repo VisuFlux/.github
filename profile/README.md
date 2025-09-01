@@ -196,7 +196,7 @@ JWT_SECRET=your-secret-key
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier [https://github.com/VisuFlux/.github/blob/main/LICENSE](LICENSE) pour plus de détails.
 
 ---
 
